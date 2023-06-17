@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/adminPanel/static/css/main.012cff42.css",
+    "main.js": "/adminPanel/static/js/main.bbe103ea.js",
+    "static/media/delete-icon.svg": "/adminPanel/static/media/delete-icon.d2ae7e39d9351a186362654fe3d65f42.svg",
+    "index.html": "/adminPanel/index.html",
+    "main.012cff42.css.map": "/adminPanel/static/css/main.012cff42.css.map",
+    "main.bbe103ea.js.map": "/adminPanel/static/js/main.bbe103ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.012cff42.css",
+    "static/js/main.bbe103ea.js"
+  ]
+}
